@@ -160,6 +160,14 @@ Troubleshooting:
 - If you see error `wrong access-token value from device` - you may need to click button `Soft reset` on device setup
   stage
 
+## Returning from BYOS to cloud or updating firmware
+Switching requests back to usetrmnl.com
+1. Hold round button on your device for more than 5 seconds - you should see connection instructions on screen.
+2. Connect your phone to wifi called `TRMNL`
+3. On setup screen press button “Soft reset”. Device should restart after that
+4. Connect your phone to wifi called `TRMNL` again
+5. On setup screen choose wifi and fill password only (no custom server)
+
 ## BYOS Proxy
 
 You can use both own server with own screen and some plugins from usetrmnl.com (aka core) by using Proxy mode. In this
